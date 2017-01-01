@@ -2,11 +2,7 @@
   "name": "zurb-foundation",
   "version": "5.5.1",
   "description": "Frozen copy of foundation 5.5.1",
-  "main": [
-    "css/foundation.css",
-    "css/foundation.css.map",
-    "js/foundation.js"
-  ],
+  "main": "js/foundation.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
